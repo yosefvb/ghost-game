@@ -3,3 +3,6 @@ venv/
 env/
 .venv
 .env
+
+# VS Code
+.vscode/

@@ -39,5 +39,5 @@ for letter in sorted(set(next_letters)):
     print(letter, 
           [word for word in legal_not_losing_words if word[len(ghost)] == letter])
 
-# TO DO
+
 # Find forced wins 
